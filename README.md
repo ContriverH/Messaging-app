@@ -1,3 +1,9 @@
 # Messaging-app
-Built using React, Node and Socket.io
-This app will offer group messaging
+
+Built using:
+
+- React
+- Node
+- Socket.io
+  <br>
+  ## This app will offer group messaging
